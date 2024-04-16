@@ -1,0 +1,4 @@
+[core]
+    remote = ls
+['remote "ls"']
+    url = /home/varsha-pt7521/Downloads/remote
